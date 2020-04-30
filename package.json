@@ -1,0 +1,22 @@
+{
+  "name": "ps-contact-list-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stria-llc/ps-contact-list-upload.git"
+  },
+  "author": "Paul Holden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stria-llc/ps-contact-list-upload/issues"
+  },
+  "homepage": "https://github.com/stria-llc/ps-contact-list-upload#readme",
+  "dependencies": {
+    "@paulholden/sharepoint": "^0.1.10"
+  }
+}
