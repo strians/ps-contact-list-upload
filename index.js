@@ -34,7 +34,7 @@ About configuration settings:
   - sharepoint.url: The URL for your SharePoint site
   - sharepoint.username: The username used to access the SharePoint site
   - sharepoint.password: The password used to access the SharePoint site
-` );
+`);
   return;
 }
 
