@@ -24,5 +24,11 @@
   },
   "devDependencies": {
     "pkg": "^4.4.8"
+  },
+  "pkg": {
+    "scripts": "**/*.js",
+    "targets": [
+      "node10-win-x64"
+    ]
   }
 }
